@@ -91,7 +91,7 @@ function Projects() {
               imgPath={image5}
               isBlog={false}
               title="react doc"
-              // description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="contribute react.dev doc"
               ghLink="https://github.com/reactjs/react.dev"
             // demoLink="https://chatify-49.web.app/"
             />
